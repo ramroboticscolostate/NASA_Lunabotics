@@ -2,7 +2,7 @@
 set -u
 
 echo "========================================"
-echo " Rover / Pi Network Baseline"
+echo " Pi Network Baseline"
 echo "========================================"
 echo "Timestamp: $(date --iso-8601=seconds)"
 echo "Hostname:  $(hostname)"
