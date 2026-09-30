@@ -2,7 +2,14 @@
 
 ## USE
 
-**USE PYTHON VIRTUAL ENV when running tests**
+## Working Directory
+
+Run the logger from the `testing/` directory so the relative `results/` path is created in the correct location.
+
+```bash
+cd pi_main_brain/testing
+```
+**USE PYTHON VIRTUAL ENV when running tests be sure in C:**
 
 create virtual env:
 
