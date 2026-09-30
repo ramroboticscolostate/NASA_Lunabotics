@@ -1,0 +1,6 @@
+# Keep Linux/Pi project files using LF line endings (I use Windows, but the Pi uses Linux so I want to avoid CRLF line endings in the repo) MAINLY FOR .sh
+
+*.sh text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
