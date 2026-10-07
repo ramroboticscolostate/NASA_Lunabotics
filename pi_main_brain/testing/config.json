@@ -1,0 +1,8 @@
+{
+  "test_name": "pi_baseline_alpha",
+  "interface": "wlan0",
+  "ping_target": "AUTO_GATEWAY",
+  "sample_interval_seconds": 1,
+  "duration_seconds": 3600,
+  "results_directory": "results"
+}

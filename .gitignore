@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Test output
+pi_main_brain/testing/results/*
+!pi_main_brain/testing/results/.keep
