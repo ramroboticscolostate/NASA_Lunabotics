@@ -1,0 +1,7 @@
+# Linux-compatible source files
+*.c text eol=lf
+*.h text eol=lf
+*.txt text eol=lf
+
+# Binary image files
+*.png binary
